@@ -12,7 +12,7 @@ The full Citi Bike dashboard can be viewed on [Tableau.](https://public.tableau.
 
 
 * Monday, Tuesday, Thursday are the most busiest days.
-![trips_byweekday.png](images/trips_byweekday.png)
+![trips_byweekday.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/checkouttimes_bygender.png)
 
 *Most rider checkout within First hour irrespective of gender.
 ![checkouttimes_bygender.png](images/checkouttimes_bygender.png)
