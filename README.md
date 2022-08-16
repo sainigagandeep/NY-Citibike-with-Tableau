@@ -1,5 +1,4 @@
-# NY-Citibike-with-Tableau
-# Bike Share with NYC Citi Bike August 2019
+# NYC-Citibike-with-Tableau
 
 ## Overview
 Citi Bike is the nation's largest bike share program, with 20,000 bikes and over 1,300 stations across Manhattan, Brooklyn, Queens, the Bronx and Jersey City. It was designed for quick trips with convenience in mind, and itâ€™s a fun and affordable way to get around town.
