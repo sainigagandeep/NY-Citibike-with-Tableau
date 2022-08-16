@@ -7,27 +7,27 @@ Looking at the breadth of data provided by Citi Bike one can examine if a bike-s
 The full Citi Bike dashboard can be viewed on [Tableau.](https://public.tableau.com/app/profile/gagandeep.saini5571/viz/NYCstoryAugust2019/NYCStoryAugust2019?publish=yes)
 
 ## Results
-### With the Citi Bike data from August, the most popular month, the following was gathered.
-
 
 * Monday, Tuesday, Thursday are the most busiest days.
+
 ![trips_byweekday.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/trips_byweekday.png)
 
 *Most rider checkout within First hour irrespective of gender.
-![checkouttimes_bygender.png]([images/checkouttimes_bygender.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/checkouttimes_bygender.png))
+
+![checkouttimes_bygender.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/checkouttimes_bygender.png)
 
 * Bike repair is inevitable and can be planned based on the bikes used the most. 
 ![repair.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/repair.png)
 
 * Men use Citi Bike more than women.
-![genderbreakdown.png]([images/genderbreakdown.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/genderbreakdown.png))
+![genderbreakdown.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/genderbreakdown.png)
 
 
 * Subscribers ride the bikes more than non-subscriber.
-![trips_bycustomer.png]([images/trips_bycustomer.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/trips_bycustomer.png))
+![trips_bycustomer.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/trips_bycustomer.png)
 
 * The most popular ride times are the same for all gender.
-![trips_byweekday_bygender.png]([images/trips_byweekday_bygender.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/trips_byweekday_bygender.png))
+![trips_byweekday_bygender.png](https://github.com/Gagan-hub/NY-Citibike-with-Tableau/blob/main/Images/trips_byweekday_bygender.png)
 
 ## Summary
 A ride-sharing program like Citi Bike is a great offering for a community. With 2,344,224 bike rides in August there is much data to analyze. Most Citi Bike trips are short, less than one hour. The Citi Bike data shows that bike sharing is used for commuters and those looking for some weekend fun. Subscribers are the main business model. When looking at subscriber rate and duration of use, men tend to use the program more. Having a bike repair plan is a must especially for the bikes used in the most popular areas.
