@@ -1,7 +1,7 @@
 # NYC-Citibike-with-Tableau
 
 ## Overview
-Citi Bike is the nation's largest bike share program, with 20,000 bikes and over 1,300 stations across Manhattan, Brooklyn, Queens, the Bronx and Jersey City. It was designed for quick trips with convenience in mind, and it is a fun and affordable way to get around town. The purpose of this analysis was to demonstrate the usage of Citi Bike in NYC via visualization, so that it could help to convince investors that a bike-sharing program in Des Moines could be a solid proposal.
+Citi Bike is the nation's largest bike share program, with 20,000 bikes and over 1,300 stations across Manhattan, Brooklyn, Queens, the Bronx and Jersey City. It was designed for quick trips with convenience in mind, and it is a fun and affordable way to get around town. The main purpose of this analysis was to demonstrate the usage of Citi Bike in NYC via visualization, so that it could help to convince investors that a bike-sharing program in Des Moines could be a solid proposal.
 
 Looking at the breadth of data provided by Citi Bike one can examine if a bike-sharing program in another city is a solid business proposal. Citi Bike data can examine how many people use Citi Bike, when they ride, how far do they go, what is the gender breakdown of bike use and what days of the week are most rides taken on?
 The full Citi Bike dashboard can be viewed on [Tableau.](https://public.tableau.com/app/profile/gagandeep.saini5571/viz/NYCstoryAugust2019/NYCStoryAugust2019?publish=yes)
